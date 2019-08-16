@@ -6,7 +6,7 @@ A set of open source extensions for StandardNotes.
 
 # Usage
 
-Paste `https://snext.netlify.com/index.json` into `Extended Code` in StandardNotes.
+Paste `https://snextension.netlify.com/index.json` into `Extended Code` in StandardNotes.
 
 # Notice
 
