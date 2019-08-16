@@ -93,5 +93,6 @@ def main(base_url):
 
 
 if __name__ == '__main__':
-    main(os.getenv('BASE_URL', 'https://snext.netlify.com/'))
+    #main(os.getenv('BASE_URL', 'https://snext.netlify.com/'))
+    main(os.getenv('BASE_URL', 'https://snextension.netlify.com'))
 
