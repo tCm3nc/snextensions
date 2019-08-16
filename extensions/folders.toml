@@ -5,8 +5,8 @@ main = "index.html"
 
 name = "Folders"
 content_type="SN|SmartTag"
-area = "editor-stack"
-version = "1.3.2"
+area = "note-tags@
+version = "1.3.3"
 marketing_url = "https://standardnotes.org/extensions/folders"
 thumbnail_url = "https://s3.amazonaws.com/standard-notes/screenshots/models/components/folders.jpg"
 description = "Folders component"
