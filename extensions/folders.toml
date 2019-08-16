@@ -1,0 +1,13 @@
+id = "org.standardnotes.folders"
+npm = "sn-folders"
+github = "sn-extensions/folders-component"
+main = "index.html"
+
+name = "Folders"
+content_type="SN|Component"
+area = "editor-editor"
+version = "1.3.2"
+marketing_url = "https://standardnotes.org/extensions/folders"
+thumbnail_url = "https://s3.amazonaws.com/standard-notes/screenshots/models/components/folders.jpg"
+description = "Folders component"
+flags = []
